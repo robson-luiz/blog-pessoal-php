@@ -25,7 +25,7 @@ Este é um projeto de blog pessoal desenvolvido em PHP, com painel administrativ
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/blog.version1.git
+   git clone https://github.com/robson-luiz/blog-pessoal-php.git
    ```
 2. **Configure o ambiente:**
    - PHP 7.4+
@@ -37,8 +37,8 @@ Este é um projeto de blog pessoal desenvolvido em PHP, com painel administrativ
    - Ajuste usuário, senha e nome do banco conforme seu ambiente.
    - A base URL é detectada automaticamente, mas pode ser ajustada manualmente se necessário.
 5. **Acesse o sistema:**
-   - Front-end: `http://localhost/blog.version1/`
-   - Admin: `http://localhost/blog.version1/admin/login.php`
+   - Front-end: `http://localhost/blog-pessoal-php/`
+   - Admin: `http://localhost/blog-pessoal-php/admin/login.php`
 
 ## Estrutura de Pastas
 
