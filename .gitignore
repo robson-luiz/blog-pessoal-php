@@ -22,7 +22,7 @@ logs/
 cache/
 
 # Arquivos de upload
-uploads/
+layout/
 tmp/
 
 # Arquivos de dependências
@@ -40,4 +40,9 @@ build/
 
 # Arquivos de configuração local
 config.local.php
-*.local.php 
+*.local.php
+
+# Pastas antigas do projeto
+js/
+images/
+fonts/ 
