@@ -32,7 +32,7 @@ Este é um projeto de blog pessoal desenvolvido em PHP, com painel administrativ
    - MySQL/MariaDB
    - Servidor web (Apache, Nginx, XAMPP, etc)
 3. **Importe o banco de dados:**
-   - No phpMyAdmin ou via terminal, importe o arquivo `database/blog.sql` (ou o nome do seu backup) para criar as tabelas e dados iniciais.
+   - No phpMyAdmin ou via terminal, importe o arquivo `database/cms.sql` para criar as tabelas e dados iniciais.
 4. **Configure o arquivo `config.php` se necessário:**
    - Ajuste usuário, senha e nome do banco conforme seu ambiente.
    - A base URL é detectada automaticamente, mas pode ser ajustada manualmente se necessário.
