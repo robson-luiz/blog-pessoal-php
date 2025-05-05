@@ -25,7 +25,7 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/seuusuario/blog.version1.git
+   git clone https://github.com/robson-luiz/blog-pessoal-php.git
    ```
 2. **Set up the environment:**
    - PHP 7.4+
@@ -37,8 +37,8 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
    - Adjust the user, password, and database name according to your environment.
    - The base URL is detected automatically, but can be set manually if needed.
 5. **Access the system:**
-   - Front-end: `http://localhost/blog.version1/`
-   - Admin: `http://localhost/blog.version1/admin/login.php`
+   - Front-end: `http://localhost/blog-pessoal-php/`
+   - Admin: `http://localhost/blog-pessoal-php/admin/login.php`
 
 ## Folder Structure
 
