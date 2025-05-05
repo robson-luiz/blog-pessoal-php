@@ -32,7 +32,7 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
    - MySQL/MariaDB
    - Web server (Apache, Nginx, XAMPP, etc)
 3. **Import the database:**
-   - In phpMyAdmin or via terminal, import the file `database/blog.sql` (or your backup file) to create the tables and initial data.
+   - In phpMyAdmin or via terminal, import the file `database/cms.sql` to create the tables and initial data.
 4. **Configure the `config.php` file if needed:**
    - Adjust the user, password, and database name according to your environment.
    - The base URL is detected automatically, but can be set manually if needed.
