@@ -4,10 +4,170 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/* Estilos Gerais */
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 56px;
+    font-family: 'Roboto', sans-serif;
 }
 
+/* Estilos para Posts */
+.blog-post {
+    margin-bottom: 4rem;
+}
+
+.blog-post-title {
+    margin-bottom: .25rem;
+    font-size: 2.5rem;
+}
+
+.blog-post-meta {
+    margin-bottom: 1.25rem;
+    color: #6c757d;
+}
+
+/* Estilos para Cards */
+.card {
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+/* Estilos para Comentários */
+.comment {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: .25rem;
+}
+
+.comment-author {
+    font-weight: 500;
+    margin-bottom: .5rem;
+}
+
+.comment-date {
+    font-size: .875rem;
+    color: #6c757d;
+}
+
+/* Estilos para Formulários */
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+/* Estilos para Botões */
+.btn-primary {
+    padding: .5rem 1.5rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+}
+
+/* Estilos para Navegação */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* Estilos para Rodapé */
 footer {
-    margin: 50px 0;
+    margin-top: 4rem;
+}
+
+.social-links a {
+    font-size: 1.25rem;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #007bff !important;
+}
+
+/* Estilos para Dark Mode */
+.dark-mode .blog-post-meta {
+    color: #adb5bd;
+}
+
+.dark-mode .comment {
+    background-color: #2c3034;
+    border: 1px solid #454d55;
+}
+
+.dark-mode .card-header {
+    background-color: #343a40;
+    border-bottom: 1px solid #454d55;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .blog-post-title {
+        font-size: 2rem;
+    }
+    
+    .card {
+        margin-bottom: 1.5rem;
+    }
+}
+
+/* Animações */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.blog-post {
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* Estilos para Imagens */
+.img-fluid {
+    border-radius: .25rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+/* Estilos para Links */
+a {
+    color: #007bff;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Estilos para Títulos */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+/* Estilos para Listas */
+.list-unstyled li {
+    margin-bottom: .5rem;
+}
+
+/* Estilos para Ícones */
+.fas, .far {
+    margin-right: .5rem;
 }
