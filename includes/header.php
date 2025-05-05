@@ -95,7 +95,7 @@ if (!isset($title)) {
                             ?>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="admin">Admin</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo $config['base_url']; ?>admin/login.php">Admin</a></li>
                     <li class="nav-item">
                         <button id="darkModeToggle" class="btn btn-link nav-link"><i class="fas fa-moon"></i></button>
                     </li>
