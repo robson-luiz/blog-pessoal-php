@@ -53,7 +53,7 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
 ### Front-end
 
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/front_end_tema_escuro.png?raw=true" alt="Personal Blog Homepage" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/front_end_tema_escuro.png?raw=true" alt="Personal Blog Homepage" width="800">
   <br>
   <em>Personal Blog Homepage</em>
 </div>
@@ -61,13 +61,13 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
 ### Admin Panel
 
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/tela_login_administrativo.png?raw=true" alt="Personal Blog Admin Login" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/tela_login_administrativo.png?raw=true" alt="Personal Blog Admin Login" width="800">
   <br>
   <em>Personal Blog Admin Login</em>
 </div>
 
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/dashboard_administrativo.png?raw=true" alt="Personal Blog Admin Dashboard" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/dashboard_administrativo.png?raw=true" alt="Personal Blog Admin Dashboard" width="800">
   <br>
   <em>Personal Blog Admin Dashboard</em>
 </div>

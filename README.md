@@ -52,20 +52,20 @@ Este é um projeto de blog pessoal desenvolvido em PHP, com painel administrativ
 
 ### Front-end
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/front_end_tema_escuro.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/front_end_tema_escuro.png?raw=true" alt="Homepage Blog Pessoal" width="800">
   <br>
   <em>Página inicial do blog com design moderno e responsivo</em>
 </div>
 
 ### Administrativo
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/tela_login_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/tela_login_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
   <br>
   <em>Tela de login do admin</em>
 </div>
 
 <div align="center">
-  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/dashboard_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/refatoracao-2025/screenshots/dashboard_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
   <br>
   <em>Dashboard do admin</em>
 </div>
