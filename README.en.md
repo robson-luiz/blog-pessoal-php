@@ -52,15 +52,25 @@ This is a personal blog project developed in PHP, featuring an admin panel, post
 
 ### Front-end
 
-![Light Theme](screenshots/front_end_tema_claro.png)
-
-![Dark Theme](screenshots/front_end_tema_escuro.png)
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/front_end_tema_escuro.png?raw=true" alt="Personal Blog Homepage" width="800">
+  <br>
+  <em>Personal Blog Homepage</em>
+</div>
 
 ### Admin Panel
 
-![Admin Login](screenshots/tela_login_administrativo.png)
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/tela_login_administrativo.png?raw=true" alt="Personal Blog Admin Login" width="800">
+  <br>
+  <em>Personal Blog Admin Login</em>
+</div>
 
-![Admin Dashboard](screenshots/dashboard_administrativo.png)
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/dashboard_administrativo.png?raw=true" alt="Personal Blog Admin Dashboard" width="800">
+  <br>
+  <em>Personal Blog Admin Dashboard</em>
+</div>
 
 ## Main Refactoring Improvements
 - Centralized configuration and connection

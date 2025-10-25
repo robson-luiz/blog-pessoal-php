@@ -51,16 +51,24 @@ Este é um projeto de blog pessoal desenvolvido em PHP, com painel administrativ
 ## Prints do Sistema
 
 ### Front-end
-
-![Tema Claro](screenshots/front_end_tema_claro.png)
-
-![Tema Escuro](screenshots/front_end_tema_escuro.png)
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/front_end_tema_escuro.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <br>
+  <em>Página inicial do blog com design moderno e responsivo</em>
+</div>
 
 ### Administrativo
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/tela_login_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <br>
+  <em>Tela de login do admin</em>
+</div>
 
-![Login Admin](screenshots/tela_login_administrativo.png)
-
-![Dashboard Admin](screenshots/dashboard_administrativo.png)
+<div align="center">
+  <img src="https://github.com/robson-luiz/blog-pessoal-php/blob/master/screenshots/dashboard_administrativo.png?raw=true" alt="Homepage Blog Pessoal" width="800">
+  <br>
+  <em>Dashboard do admin</em>
+</div>
 
 ## Principais Melhorias da Refatoração
 - Centralização de configuração e conexão
